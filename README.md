@@ -12,3 +12,12 @@
       }
    }
 }
+  - Restirct the fields to show
+  -   - {
+   "selector": {},
+   "fields": [
+      "_id",
+      "price",
+      "square_feet"
+   ]
+}
